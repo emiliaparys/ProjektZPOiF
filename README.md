@@ -2,7 +2,7 @@
 Repozytorium pod projekt Emilii Parys, Antoniny Piwczyńskiej i Wojciecha Chałaja (Java)
 
 Będziemy wykorzystywać dane ze strony: https://developer.spotify.com/ <br>
-Naszym celem jest stworzenie aplikacji, w której użytkownicy będą mogli znaleźć statystyki swojej aktywności na Spotify.
+Naszym celem jest stworzenie aplikacji, w której użytkownicy będą mogli znaleźć statystyki swojej aktywności na Spotify. <br>
 Pomysły:
  - analiza utworów pomijanych, częstotliwość pomijania i w jakich godzinach
  - analiza mainstreamowosci czyjegos gustu muzycznego
