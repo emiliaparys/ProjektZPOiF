@@ -5,6 +5,6 @@ Będziemy wykorzystywać dane ze strony: https://developer.spotify.com/ oraz Spo
 Naszym celem jest stworzenie aplikacji, w której użytkownicy będą mogli znaleźć statystyki swojej aktywności na Spotify. <br>
 Pomysły:
  - analiza utworów pomijanych, częstotliwość pomijania i w jakich godzinach
- - analiza mainstreamowosci czyjegos gustu muzycznego
- - nawyki sluchania muzyki(czy slucha po playlistach czy albumach (mozna zobaczyc czy ten sam artysta/album pojawia sie z rzedu))
- - blend na sterydach?
+ - analiza mainstreamowości czyjegoś gustu muzycznego
+ - nawyki słuchania muzyki (czy słucha po playlistach czy albumach, można zobaczyć czy ten sam artysta/album pojawia sie z rzędu)
+ - ulepszenie opcji blendu dla znajomych
